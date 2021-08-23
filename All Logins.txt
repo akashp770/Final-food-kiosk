@@ -1,0 +1,13 @@
+================= Admin ==========================================
+Username : admin@admin.com
+Password : 123456
+
+
+
+
+
+
+================== Restaurent Login =============================
+1. Paradise - Email - paradise@p.com Password - 1234567
+2. Kritunga - Email - krit@kk.com Password - 123456
+3. Karachi Bakery - Email - karachi@bakery.com Password- 123456
